@@ -4,6 +4,24 @@ Welcome to my machine learning and data analytics portfolio!
 This repository provides an overview of selected end-to-end projects focused on customer behavior, prediction, and insight extraction.
 
 ---
+### 4. Humanitarian Aid Data Pipeline
+
+![Language](https://img.shields.io/badge/Language-Python-blue)
+![Focus](https://img.shields.io/badge/Focus-ETL%20%7C%20Data%20Quality-lightgrey)
+![Stack](https://img.shields.io/badge/Stack-Azure%20%7C%20dbt%20%7C%20Power%20BI-informational)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+End-to-end pipeline to analyze **humanitarian aid distribution** across countries/regions.  
+Focused on **clean ingestion**, **quality & governance**, and **clear, decision-ready visuals** for humanitarian impact.
+
+- ETL in Python (pandas) + dbt models (staging → core → marts)  
+- Outputs curated CSVs for **Power BI** dashboards  
+- Includes a data dictionary and reproducible notebooks
+
+🔗 **Repo:** https://github.com/Pkhoei/humanitarian-aid-data-pipeline  
+🖼️ **Sample visual:**  
+<img src="https://raw.githubusercontent.com/Pkhoei/humanitarian-aid-data-pipeline/main/data/raw/images/aid_distribution_chart.png" width="520" alt="Aid distribution chart">
+
 
 ## 🚀 Projects
 
