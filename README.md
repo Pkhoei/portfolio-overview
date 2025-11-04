@@ -19,7 +19,8 @@ Focused on **clean ingestion**, **quality & governance**, and **clear, decision-
 - Includes a data dictionary and reproducible notebooks
 
 🔗 **Repo:** https://github.com/Pkhoei/humanitarian-aid-data-pipeline  
-🖼️ **Sample visual:**  
+💡 **Sample Power BI Insight:**  
+> Visualizing total humanitarian aid distribution by country (2023)
 <img src="https://raw.githubusercontent.com/Pkhoei/humanitarian-aid-data-pipeline/main/data/raw/images/aid_distribution_chart.png" width="520" alt="Aid distribution chart">
 
 
