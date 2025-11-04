@@ -22,6 +22,7 @@ Focused on **clean ingestion**, **quality & governance**, and **clear, decision-
 💡 **Sample Power BI Insight:**  
 > Visualizing total humanitarian aid distribution by country (2023)
 <img src="https://raw.githubusercontent.com/Pkhoei/humanitarian-aid-data-pipeline/main/data/raw/images/aid_distribution_chart.png" width="520" alt="Aid distribution chart">
+> *Note: The dataset used here is a **sample dataset** created for demonstration purposes to showcase the data pipeline and Power BI dashboard capabilities.*
 
 
 ## 🚀 Projects
